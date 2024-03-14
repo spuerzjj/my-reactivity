@@ -55,7 +55,7 @@ reactive的功能是接受一个对象，返回一个响应式的对象，在响
     - 根据dirty值判断是否重新运行effectFn来更新value，返回value
     - 对value属性进行依赖收集
 
-![流程示意](image.png)
+![流程示意](http://120.77.169.147:8080/computed.png)
 
 
 ## 调试
